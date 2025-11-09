@@ -87,6 +87,10 @@ Built a recommendation system using LSTM networks and RAG for personalized suppl
 <br/>
 
 ## 🏆 Certifications
+- **Introduction to Front-End Development** – Coursera  
+  [Certificate](https://www.coursera.org/learn/introduction-to-front-end-development)  
+- **DevOps Leader Certification** – ReBootKamp (RBK) Tunisia  
+  [Details](https://www.rbktunisia.com/copie-de-d%25C3%25A9veloppeur-web)  
 - Google TensorFlow Developer Certificate  
 - AWS Cloud Practitioner  
 
