@@ -1,65 +1,121 @@
-### What is Docker?
+# Hi there, I'm Nabil Boubakri! 👋
 
-Docker is an open-source platform that automates the deployment, scaling, and management of applications inside lightweight, portable **containers**. Containers package an app with all its dependencies (code, runtime, libraries, etc.) into a standardized unit that runs consistently across different environments—like development laptops, testing servers, or production clouds—solving the classic "it works on my machine" problem.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=435&lines=Third-Year+CS+Student+%7C+AI+%26+Full-Stack+Dev;Building+scalable+AI-powered+solutions" alt="Typing SVG" />
+</div>
 
-#### Key Concepts
-- **Containers**: Isolated, runnable instances of an image (like a lightweight VM but faster and more efficient).
-- **Images**: Read-only templates for containers (e.g., a pre-built Ubuntu with Node.js installed).
-- **Dockerfile**: A script to build images (defines steps like installing packages or copying code).
-- **Docker Compose**: Tool for defining and running multi-container apps (e.g., web app + database).
+<br/>
 
-Docker is widely used for microservices, CI/CD pipelines, and DevOps workflows. It's free for personal/commercial use, with Docker Desktop as the main GUI for local development.
+Third-year Computer Science student at **ISI Kef, University of Jendouba**, Tunisia. Specializing in **Full-Stack Dev & Applied AI/ML**—focusing on RAG systems, supervised/unsupervised ML for scalable solutions. Built a RAG legal platform with FastAPI, React, Docker. Open to internships!
 
-#### Why Use Docker?
-| Benefit              | Description |
-|----------------------|-------------|
-| **Portability**      | Run anywhere without environment tweaks. |
-| **Efficiency**       | Shares the host OS kernel; starts in seconds (vs. minutes for VMs). |
-| **Isolation**        | Apps don't interfere; secure by design. |
-| **Scalability**      | Orchestrate with Kubernetes or Docker Swarm. |
-| **Versioning**       | Images are immutable and trackable like Git. |
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=user1650&style=flat-square&color=brightgreen" alt="Profile Views" />
+</div>
 
-#### Getting Started: Basic Commands
-Install Docker from [docker.com](https://www.docker.com/products/docker-desktop/). Then try these in your terminal:
+<br/>
 
-1. **Pull an image** (e.g., official Nginx web server):  
-   ```
-   docker pull nginx
-   ```
+## 🛠️ Technical Skills
 
-2. **Run a container** (expose port 80):  
-   ```
-   docker run -d -p 8080:80 --name my-nginx nginx
-   ```
-   Visit `http://localhost:8080` to see it live.
+| Category          | Technologies                          |
+|-------------------|---------------------------------------|
+| **Languages**     | Python, JavaScript, TypeScript, SQL   |
+| **Frontend**      | React, MUI, Tailwind CSS, Streamlit   |
+| **Backend**       | FastAPI, Node.js, REST APIs           |
+| **Databases**     | Supabase (PostgreSQL, pgvector), MongoDB |
+| **AI/ML & NLP**   | TensorFlow, Hugging Face (BGE, Sentence Transformers), RAG, Google Gemini, Scikit-learn (Supervised/Unsupervised) |
+| **Tools & DevOps**| Docker, Git, CI/CD (GitHub Actions), Jest, Pytest |
+| **Security**      | AES Encryption                        |
 
-3. **List running containers**:  
-   ```
-   docker ps
-   ```
+<br/>
 
-4. **Stop and remove**:  
-   ```
-   docker stop my-nginx && docker rm my-nginx
-   ```
+## 🚀 Featured Projects
 
-5. **Build from a Dockerfile** (create a file named `Dockerfile` with content like `FROM python:3.12` then):  
-   ```
-   docker build -t myapp .
-   docker run -p 5000:5000 myapp
-   ```
+### Juridical RAG System for Tunisian Legal Analysis
+**Sep 2024 – Present** | *Personal Project*  
+RAG system for semantic querying of legal docs—combines retrieval (BGE embeddings) with generation (Gemini) for context-aware analysis.  
+- FastAPI backend: pgvector storage, AES-secured data.  
+- React/TypeScript/MUI frontend.  
+- Docker for deployment.  
 
-#### Common Use Cases
-- **Web Apps**: Containerize a Flask/Django app with `EXPOSE 5000` in Dockerfile.
-- **Data Science**: Run Jupyter notebooks reproducibly.
-- **Testing**: Spin up isolated DBs (e.g., `docker run -e POSTGRES_PASSWORD=pass postgres`).
+**Tech Stack:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8F?style=for-the-badge&logo=supabase&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF3D5A?style=for-the-badge&logo=hugging-face) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-#### Tips & Best Practices
-- Use `.dockerignore` like `.gitignore` to exclude junk files.
-- Multi-stage builds for smaller images: Build in one stage, copy artifacts to a slim runtime.
-- Scan for vulnerabilities: `docker scout cves <image>`.
-- For production, pair with orchestration (Kubernetes) or cloud services (AWS ECS, Google Cloud Run).
+[GitHub Repo](https://github.com/user1650/juridical-rag)
 
-If you're hitting issues (e.g., "permission denied"), ensure your user is in the `docker` group: `sudo usermod -aG docker $USER` (log out/in).
+---
 
-What specifically about Docker? A tutorial, troubleshooting, or integrating with your project? Let me know! 🚀
+### ML Bias Audit Tool (Supervised/Unsupervised Focus)
+**Jan 2024 – May 2024** | *University Project*  
+Audits ML models for bias using supervised Deep Learning classifiers and unsupervised KNN anomaly detection—cut false positives by 18%.  
+- React/Tailwind dashboard.  
+- Docker deployment.  
+
+**Tech Stack:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%230072B9.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+[GitHub Repo](https://github.com/user1650/ml-bias-audit)
+
+---
+
+### NLP Supplement Recommender (RAG + Supervised ML)
+**Nov 2023 – Dec 2023** | *Personal Project*  
+RAG-enhanced LSTM (supervised) for personalized recommendations.  
+- FastAPI backend + React/MUI frontend.  
+
+**Tech Stack:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%230072B9.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF3D5A?style=for-the-badge&logo=hugging-face)  
+
+[GitHub Repo](https://github.com/user1650/supplement-recommender)
+
+<br/>
+
+## 📚 Education
+- **BSc Computer Science** (Exp. 2027)  
+  *ISI Kef, University of Jendouba*  
+  **Key Courses:** Algorithms, ML (Supervised/Unsupervised), NLP, Web Dev, DBs
+
+<br/>
+
+## 💼 Experience
+### TA – Intro to Programming  
+**Sep 2024 – Present** | *ISI Kef*  
+- Mentored 50+ in Python/JS.  
+- Workshops on data structures.  
+- TypeScript automation (+30% efficiency).
+
+<br/>
+
+## 🏆 Certifications
+- **Intro to Front-End Dev** – Coursera  
+  [Certificate](https://www.coursera.org/learn/introduction-to-front-end-development)  
+- **DevOps Leader** – ReBootKamp Tunisia  
+  [Details](https://www.rbktunisia.com/copie-de-d%25C3%25A9veloppeur-web)
+
+<br/>
+
+## 🌍 Languages
+- **Arabic** (Native) | **English** (Fluent) | **French** (Advanced)
+
+<br/>
+
+## 📫 Connect
+<div align="center">
+  <a href="mailto:nebilboubakri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nabil-boubakri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=user1650&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user1650&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=user1650&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
+
+---
+
+*Updated: November 09, 2025*  
+<div align="center">Let's collaborate on AI/ML! 🚀</div>
