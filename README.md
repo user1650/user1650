@@ -83,6 +83,12 @@
 
 ###
 
+<div data-importer="languages" align="center">
+  <img src="https://raw.githubusercontent.com/user1650/user1650/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=Jupyter%20Notebook,PowerShell" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/user1650/user1650/snake-output/snake.svg" alt="Snake animation" />
