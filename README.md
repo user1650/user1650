@@ -70,11 +70,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="38" alt="LangChain"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="44" alt="LangChain"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="38" alt="LangSmith"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="44" alt="LangSmith"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="38" alt="LangGraph"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="44" alt="LangGraph"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker"  />
   <img width="12" />
