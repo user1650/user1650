@@ -17,11 +17,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="64" alt="langchain logo"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-text.png" height="44" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="64" alt="langsmith logo"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langsmith-text.png" height="44" alt="langsmith logo"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="64" alt="langgraph logo"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langgraph-text.png" height="44" alt="langgraph logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -70,11 +70,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="56" alt="LangChain"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-text.png" height="40" alt="LangChain"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="56" alt="LangSmith"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langsmith-text.png" height="40" alt="LangSmith"  />
   <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="56" alt="LangGraph"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langgraph-text.png" height="40" alt="LangGraph"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker"  />
   <img width="12" />
