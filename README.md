@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src=".github/assets/yuta-yuta-okkotsu.gif"  />
+<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/user1650/user1650/main/.github/assets/yuta-yuta-okkotsu.gif"  />
 
 ###
 
@@ -17,9 +17,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="40" alt="langchain logo"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" height="40" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" height="40" alt="langgraph logo"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith.svg" height="40" alt="langsmith logo"  />
+  <img width="12" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph.svg" height="40" alt="langgraph logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -68,9 +70,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="34" alt="LangChain"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" height="34" alt="LangChain"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" height="34" alt="LangGraph"  />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith.svg" height="34" alt="LangSmith"  />
+  <img width="12" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph.svg" height="34" alt="LangGraph"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker"  />
   <img width="12" />
