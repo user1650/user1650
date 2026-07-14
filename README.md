@@ -55,39 +55,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/user1650/user1650/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div data-importer="stack" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="34" alt="Vite"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter"  />
-  <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-color.png" height="40" alt="LangChain"  />
-  <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langsmith-color.png" height="40" alt="LangSmith"  />
-  <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langgraph-color.png" height="40" alt="LangGraph"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="34" alt="Cloudflare"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="34" alt="Bash"  />
-</div>
-
-###
-
-<div data-importer="languages" align="center">
   <img src="https://raw.githubusercontent.com/user1650/user1650/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=Jupyter%20Notebook,PowerShell" height="150" alt="languages graph"  />
 </div>
 
