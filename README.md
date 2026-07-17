@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Boubakri Nabil and I'm an Agentic Developper, from Tunisia</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Boubakri Nabil and I'm an Agentic AI Developer, from Tunisia</h2>
 
 ###
 
